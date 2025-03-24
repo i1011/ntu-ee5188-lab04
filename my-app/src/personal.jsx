@@ -8,8 +8,8 @@ const PersonalPage = () => {
       <nav className="bg-gray-800 p-4 flex justify-between items-center">
         <div className="text-lg font-semibold">網路攻防實習</div>
         <div className="space-x-4">
-          <a href="/" className="text-gray-300 hover:text-white">About</a>
-          <a href="/message-board" className="text-gray-300 hover:text-white">Chat</a>
+          <a href="#" className="text-gray-300 hover:text-white">About</a>
+          <a href="#message-board" className="text-gray-300 hover:text-white">Chat</a>
           <span className="text-yellow-400">參與人數 5</span>
           <a href="#login" className="text-gray-300 hover:text-white">Login</a>
           <a href="#signup" className="text-gray-300 hover:text-white">Sign Up</a>
